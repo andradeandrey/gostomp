@@ -33,6 +33,7 @@ TODO:
  - support client ACK
  - support transactions (BEGIN/COMMIT/ABORT)
  - support UNSUBSCRIBE
+ - more tests
 
 */
 
