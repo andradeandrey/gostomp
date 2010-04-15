@@ -1,0 +1,3 @@
+A STOMP library for Go. 
+
+Still early days, see stomp.go for TODOs.
